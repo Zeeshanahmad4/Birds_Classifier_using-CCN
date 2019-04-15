@@ -6,6 +6,9 @@ This is a simple Birds_Classifier using Tensorflo wraper tflearn.
 
 2.Dataset i am using for traing as well as testing is [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-3.
+
+## full descriptions
+
+
 
 
